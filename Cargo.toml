@@ -4,8 +4,9 @@ members = [
     "indy-credx",
     "indy-data-types",
     "indy-test-utils",
-    "indy-utils"
-]
+    "indy-utils",
+    "bindgen"
+    ]
 
 [profile.release]
 panic = "abort"
